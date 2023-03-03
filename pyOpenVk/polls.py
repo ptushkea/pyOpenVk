@@ -1,7 +1,5 @@
 import requests as http
 import json
-from pyOpenVk import api
-from pyOpenVk import wall
 
 class polls:
 
